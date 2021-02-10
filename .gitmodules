@@ -1,3 +1,6 @@
 [submodule "Task_01"]
 	path = Task_01
 	url = https://github.com/fryn3/Task_01.git
+[submodule "Task_02"]
+	path = Task_02
+	url = ../../KhachKara/Task_02
